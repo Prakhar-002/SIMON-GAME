@@ -20,7 +20,7 @@
 </br>
 
 
-# Gameplay Instructions ⚔️
+# GamePlay Instructions ⚔️
 
 
 1. **Objective 🤔**
