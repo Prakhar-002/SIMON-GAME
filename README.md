@@ -19,38 +19,6 @@
 
 </br>
 
-# Tech Stack 👨🏻‍💻
-
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) &nbsp; ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) &nbsp; ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-
-</br>
-
-# Features 💎
-- `GamePlay` ➤ **Authentic gameplay** `mimicking the original Simon game`.
-
-
-- `Simple` ➤ **Simple and intuitive interface** using `HTML, CSS, and JavaScript`.
-
-- `Design` ➤  **Responsive design**, `suitable for desktop and mobile devices`.
-
-</br>
-
-# Deployment 🛫
-
-**To 🏃🏻‍♂️ locally this CYBER FICTION - A 3D-Animation-site** *run this command on your git bash*
-
-
-`For window 🍃`
-```bash
-  git clone https://github.com/Prakhar-002/SIMON-GAME.git
-```
-
-`For Linux and macOS 🌿`
-```bash
-  sudo git clone https://github.com/Prakhar-002/SIMON-GAME.git
-```
-
-</br>
 
 # Gameplay Instructions ⚔️
 
@@ -83,3 +51,38 @@
 5. **Restarting ♻️ the Game 🎮** 
 
     🔹 **Press the "Any" button** *again to* `restart the game` *and* **try to beat your previous score**.
+
+
+</br>
+
+# Tech Stack 👨🏻‍💻
+
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) &nbsp; ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) &nbsp; ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+
+</br>
+
+# Features 💎
+- `GamePlay` ➤ **Authentic gameplay** `mimicking the original Simon game`.
+
+
+- `Simple` ➤ **Simple and intuitive interface** using `HTML, CSS, and JavaScript`.
+
+- `Design` ➤  **Responsive design**, `suitable for desktop and mobile devices`.
+
+</br>
+
+# Deployment 🛫
+
+**To 🏃🏻‍♂️ locally this CYBER FICTION - A 3D-Animation-site** *run this command on your git bash*
+
+
+`For window 🍃`
+```bash
+  git clone https://github.com/Prakhar-002/SIMON-GAME.git
+```
+
+`For Linux and macOS 🌿`
+```bash
+  sudo git clone https://github.com/Prakhar-002/SIMON-GAME.git
+```
+
